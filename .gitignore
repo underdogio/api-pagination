@@ -1,0 +1,4 @@
+*.pyc
+build/
+dist/
+api_pagination.egg-info
